@@ -1,0 +1,23 @@
+{
+  "name": "boolean-operations",
+  "version": "0.1.0",
+  "description": "Boolean operations on shapes",
+  "main": "lib/main",
+  "dependencies": {
+    "eve": "~0.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomashanacek/boolean-operations.git"
+  },
+  "author": "Tomas Hanacek <tomashanacek@avocode.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomashanacek/boolean-operations/issues"
+  },
+  "homepage": "https://github.com/tomashanacek/boolean-operations"
+}
